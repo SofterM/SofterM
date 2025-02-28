@@ -22,7 +22,7 @@
 - 🎓 ปัจจุบันเป็นนักศึกษาสาขา **วิศวกรรมซอฟต์แวร์**
 - 🔭 กำลังทำงานเกี่ยวกับ **โปรเจกต์ Web Development สุดเจ๋ง**
 - 👯 มองหาโอกาสในการร่วมงานกับ **โปรเจกต์โอเพนซอร์ส**
-- 💬 ถามฉันเกี่ยวกับ **JavaScript, React, UX Design**
+- 💬 ถามฉันเกี่ยวกับ **JavaScript, React, UX/UI Design**
 - 📫 ติดต่อฉันได้ที่: **66023096@up.ac.th**
 
 ---
@@ -78,10 +78,10 @@
 
 <div align="center">
   <a href="https://github.com/SofterM/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=project-1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=autocar&theme=tokyonight" />
   </a>
   <a href="https://github.com/SofterM/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=project-2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=repair-report&theme=tokyonight" />
   </a>
 </div>
 
