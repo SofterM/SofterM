@@ -77,10 +77,10 @@
 ### 📂 โปรเจกต์เด่น
 
 <div align="center">
-  <a href="https://github.com/SofterM/project-1">
+  <a href="https://github.com/SofterM/autocar">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=autocar&theme=tokyonight" />
   </a>
-  <a href="https://github.com/SofterM/project-2">
+  <a href="https://github.com/SofterM/repair-report">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=repair-report&theme=tokyonight" />
   </a>
 </div>
@@ -89,12 +89,10 @@
 
 ### 📈 การเติบโตของฉัน
 
-<!-- กราฟแบบ Productive Time -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SofterM&theme=tokyonight" />
 </div>
 
-<!-- การพัฒนาแทนที่ Snake animation ที่ใช้งานไม่ได้ -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SofterM&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SofterM&theme=tokyonight" />
@@ -112,8 +110,7 @@
 
 ### 🎯 เป้าหมายในปี 2025
 
-- 📚 ฝึกฝนทักษะด้าน Cloud Native Development
-- 🏆 มีส่วนร่วมในโปรเจกต์โอเพนซอร์สอย่างน้อย 3 โปรเจกต์
+- 📚 ฝึกฝนทักษะด้าน Java Plugin
 - 🌱 พัฒนาโปรเจกต์ส่วนตัวที่มีผู้ใช้งานจริง
 - 📊 เรียนรู้เกี่ยวกับ Data Science และ Machine Learning เพิ่มเติม
 
@@ -124,12 +121,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/SofterM">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
 </div>
 
-<!-- ส่วนท้ายเพิ่มคำคมเกี่ยวกับการเขียนโค้ด -->
 <div align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 </div>
