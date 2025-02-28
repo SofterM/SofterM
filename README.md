@@ -38,15 +38,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 #### เฟรมเวิร์คและไลบรารี
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 #### เครื่องมือและอื่นๆ
@@ -63,10 +60,10 @@
 
 <p align="center">
   <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=project-1&theme=radical" />
   </a>
   <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=project-2&theme=radical" />
   </a>
 </p>
 
@@ -82,7 +79,7 @@
 
 ### 📈 กราฟการมีส่วนร่วมของฉัน
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SofterM/SofterM/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
