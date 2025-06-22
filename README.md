@@ -80,6 +80,9 @@
   <a href="https://github.com/SofterM/repair-report">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=repair-report&theme=tokyonight" />
   </a>
+  <a href="https://github.com/SofterM/qr-pp-gen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SofterM&repo=qr-pp-gen&theme=tokyonight" />
+  </a>
 </div>
 
 ---
